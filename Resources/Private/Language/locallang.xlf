@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2015-08-27T15:28:50Z" product-name="cookie_redirect">
+		<header/>
+		<body>
+			<trans-unit id="pi1_title">
+				<source>One-Time Forwarder</source>
+			</trans-unit>
+			<trans-unit id="pi1_plus_wiz_description">
+				<source>Redirects a user to a special page only one time. After the first visit the user will see the current page or is redirected to another default page.</source>
+			</trans-unit>
+			<trans-unit id="tt_content.list_type_pi1">
+				<source>One-Time Forwarder</source>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.shortcut_page">
+				<source>Forward to page (one time):</source>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.shortcut_default">
+				<source>Default page (optional):</source>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.cookie_lifetime">
+				<source>Cookie end date:</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

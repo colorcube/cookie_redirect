@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2015-08-27T15:28:50Z" product-name="cookie_redirect">
+		<header/>
+		<body>
+			<trans-unit id="tt_content.list_type_pi1" approved="yes">
+				<source>One-Time Forwarder</source>
+				<target>Einmal-Weiterleitung</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.shortcut_page">
+				<source>Forward to page (one time):</source>
+				<target>Weiterleitungs-Seite (einmalig):</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.shortcut_default" approved="yes">
+				<source>Default page (optional):</source>
+				<target>Standard-Seite (optional):</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.cookie_lifetime" approved="yes">
+				<source>Cookie end date:</source>
+				<target>Cookie Ablaufdatum:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

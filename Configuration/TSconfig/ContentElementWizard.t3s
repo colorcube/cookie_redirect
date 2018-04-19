@@ -1,0 +1,14 @@
+mod.wizards.newContentElement.wizardItems.plugins {
+    elements {
+        cookie_redirect {
+            iconIdentifier = ext-cookie-redirect-wizard-icon
+            title = LLL:EXT:cookie_redirect/Resources/Private/Language/locallang.xlf:pi1_title
+            description = LLL:EXT:cookie_redirect/Resources/Private/Language/locallang.xlf:pi1_plus_wiz_description
+            tt_content_defValues {
+                CType = list
+                list_type = cookie_redirect_pi1
+            }
+        }
+    }
+}
+

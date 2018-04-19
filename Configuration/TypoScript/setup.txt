@@ -1,0 +1,16 @@
+
+plugin.tx_cookieredirect_pi1 {
+    userFunc = Colorcube\CookieRedirect\Controller\Plugin->main
+
+    // default is: tx_cookieredirect_pi1
+    cookiePrefix =
+
+    // cookie lifetime in seconds
+    cookieLifetime = 10000000
+
+    // one-time redirect PID
+    shortcutPID =
+
+    // default PID - default is current page
+    defaultPID =
+}
