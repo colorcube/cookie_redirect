@@ -30,7 +30,6 @@
         }
     },
     "replace": {
-        "cookie_redirect": "self.version",
         "typo3-ter/cookie-redirect": "self.version"
     },
     "extra": {
