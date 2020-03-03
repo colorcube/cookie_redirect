@@ -4,7 +4,7 @@ This is a TYPO3 extension providing a plugin that forwards a user to another pag
 
 ## Usage
 
-Further information: https://docs.typo3.org/typo3cms/extensions/cookie_redirect/
+Further information: https://docs.typo3.org/p/colorcube/cookie-redirect/master/en-us/
 
 ### Dependencies
 
